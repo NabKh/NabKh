@@ -20,9 +20,10 @@
 </div>
 
 ---
-## 🔬 About Me
+## 🔬 **About Me**
 
 I'm a computational materials scientist at the **Dutch Institute for Fundamental Energy Research (DIFFER)**, working at the intersection of **quantum chemistry**, **machine learning**, and **autonomous materials discovery**. My research focuses on developing **physics-informed AI frameworks** for accelerating the discovery of next-generation energy materials.
+
 ---
 
 **Current Research:**
