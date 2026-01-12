@@ -43,7 +43,7 @@ I'm actively seeking collaborations in:
 
 📧 **Email:** [n.khossossi@differ.nl]  
 🌐 **Website:** [sustai-nabil.com](https://sustai-nabil.com/)  
-💼 **Open to:** Faculty positions | Research collaborations | Consulting
+💼 **Open to:** Group leader/Senior Scientists | Faculty positions | Research collaborations | Consulting
 
 ---
 
