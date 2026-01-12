@@ -41,7 +41,7 @@ I'm actively seeking collaborations in:
 
 **Looking for:** Assistant Professor positions in computational materials science, ML for chemistry, and device acceleration platforms.
 
-📧 **Email:** [your.email@domain.com]  
+📧 **Email:** [n.khossossi@differ.nl]  
 🌐 **Website:** [sustai-nabil.com](https://sustai-nabil.com/)  
 💼 **Open to:** Faculty positions | Research collaborations | Consulting
 
