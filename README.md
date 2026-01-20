@@ -13,9 +13,9 @@
 ### 🔬 Postdoctoral Researcher | AI-Driven Materials Discovery | Computational Chemistry
 
 [![Website](https://img.shields.io/badge/🌐_Website-sustai--nabil.com-blue?style=for-the-badge)](https://sustai-nabil.com/)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ID)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com](https://scholar.google.com/citations?user=5tdcZ2VYgBkC&hl=en))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/nkhossossi/))
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]([https://orcid.org/YOUR-ID](https://orcid.org/my-orcid?orcid=0000-0002-3914-4162))
 
 </div>
 
@@ -41,7 +41,7 @@ I'm actively seeking collaborations in:
 
 **Looking for:** Assistant Professor positions in computational materials science, ML for chemistry, and device acceleration platforms.
 
-📧 **Email:** [n.khossossi@differ.nl]  
+📧 **Email:** [n.khossossi@differ.nl & n.khossossi@hotmail.com]  
 🌐 **Website:** [sustai-nabil.com](https://sustai-nabil.com/)  
 💼 **Open to:** Group leader/Senior Scientists | Faculty positions | Research collaborations | Consulting
 
