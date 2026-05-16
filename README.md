@@ -22,7 +22,7 @@
 ---
 ## 🔬 **About Me**
 
-I'm a computational materials scientist at the **Dutch Institute for Fundamental Energy Research (DIFFER)**, working at the intersection of **quantum chemistry**, **machine learning**, and **autonomous materials discovery**. My research focuses on developing **physics-informed AI frameworks** for accelerating the discovery of next-generation energy materials.
+I am a theoretical chemist who is driven by curiosity in chemical complexity to develop novel methods and apply them to the understanding, design, and discovery of functional materials, molecules, and catalysts for energy-related applications. My computational arsenal includes quantum chemistry, statistical mechanics, parallelized and automated workflows, and data-driven approaches to investigate systems of different levels of complexity and spatial/temporal scales.
 
 ---
 
