@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🔬 Postdoctoral Researcher | AI-Driven Materials Discovery | Computational Chemistry
+### 🔬 Researcher | AI-Driven Materials Discovery | Computational Chemistry
 
 [![Website](https://img.shields.io/badge/🌐_Website-sustai--nabil.com-blue?style=for-the-badge)](https://sustai-nabil.com/)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5tdcZ2VYgBkC&hl=en)
