@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nabil Khossossi (Nab) 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=AI-Driven+Materials+Scientist;Quantum+Chemistry+%2B+Machine+Learning;Self-Driving+Laboratory+%40+DIFFER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=AI-Driven+Materials+Scientist;Quantum+Chemistry+%2B+Machine+Learning;AI4Mat+%40+DIFFER" alt="Typing SVG" />
 
 </div>
 
